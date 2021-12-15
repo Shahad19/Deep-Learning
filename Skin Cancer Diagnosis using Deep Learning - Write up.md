@@ -1,4 +1,4 @@
-Skin Cancer Diagnosis using Deep Learning (Final Proposal)
+Skin Cancer Diagnosis using Deep Learning
 ==========================================================
 
 
