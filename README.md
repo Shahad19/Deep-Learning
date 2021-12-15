@@ -1,4 +1,3 @@
-# Melanoma_Deeplearning
 Skin Cancer (Melanoma) Classification Proposal
 ===================================
 
